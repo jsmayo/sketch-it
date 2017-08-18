@@ -11,6 +11,7 @@ div.mainContainer {
 }
 
 .etches {
-	background-color: white;
-
+	background-color:black;
+	height:64px;
+	width 64px;
 }
