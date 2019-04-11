@@ -10,8 +10,7 @@ div.mainContainer {
 	box-display: border-box;
 }
 
-.etches {
-	background-color:black;
-	height:64px;
-	width 64px;
+div.etches {
+	background-color:white;
+	height:16px;
 }
